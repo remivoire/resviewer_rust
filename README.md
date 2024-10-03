@@ -1,6 +1,7 @@
 # resviewer_rust
 
 this rust project is designed to read and parse custom ilff (image) files used in *project i.g.i* and *i.g.i 2: covert strike*, extract information from them, and display their contents using a graphical user interface it uses the `eframe` and `egui` libraries for the interface, and handles binary file reading using the `byteorder` crate 
+
 the ilff texture (`.tex`) files are stored inside `.res` files
 
 ![screenshot](https://i.imgur.com/vN69a0O.png)
