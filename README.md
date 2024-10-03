@@ -49,7 +49,7 @@ the ilff texture (`.tex`) files are stored inside `.res` files
 
 1. run the application using `cargo run`
 2. use the file dialog to select a `.res` file containing `.tex` textures
-3. the application will parse the file and display the content, including image resources if present
+3. the application will parse the file and display the content (limited to image textures for now)
 
 ## dependencies
 
